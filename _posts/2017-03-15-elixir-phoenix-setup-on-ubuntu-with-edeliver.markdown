@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elixir/Phoenix setup on Ubuntu with edeliver"
-date:   2017-03-05 22:44:40 +0000
+date:   2017-03-15 13:22:00 +0000
 categories: elixir
 ---
 
