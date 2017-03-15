@@ -59,12 +59,10 @@ In code blocks, `#` means root, while `$` means non-root user.
         # chown -R elixir_deploy ~/.ssh
 
 
-# Back to our local machine
+# Let's deploy
 
-That is the basic configuration for an Elixir+Phoenix server! Now, back on your local machine, let's deploy:
+That is the basic configuration for an Elixir+Phoenix server! Now, back on your local machine:
 
-        $ git clone your-repo # follow the installation instructions for your project!
-        …
         $ mix edeliver build release
         $ mix edeliver deploy release to production
 
